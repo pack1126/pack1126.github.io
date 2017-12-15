@@ -5,7 +5,7 @@ categories:
 - Sharon
 tags:
 - new blog
-image: "/uploads/celebrate.jpg"
+images: "/uploads/celebrate.jpg"
 layout: post
 ---
 
