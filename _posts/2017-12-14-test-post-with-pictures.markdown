@@ -5,13 +5,10 @@ categories:
 - Sharon
 tags:
 - new blog
-Field name: 
-excerpt_separator: 
+image: "/uploads/celebrate.jpg"
 layout: post
 ---
 
-![celebrate.jpg](/uploads/celebrate.jpg)
-
-Hi, my name is Sharon, and I have a blog! Yaaaaaaaaaaaaaaaaaaaaaaaaaaay! Woof woof Woof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woof
+&nbsp;&nbsp;Hi, my name is Sharon, and I have a blog! Yaaaaaaaaaaaaaaaaaaaaaaaaaaay! Woof woof Woof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woof
 
 Woof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woof
