@@ -9,6 +9,7 @@ Field name:
 excerpt_separator: 
 layout: post
 ---
+
 ![celebrate.jpg](/uploads/celebrate.jpg)
 
 ![celebrate.jpg](/uploads/celebrate.jpg) 
