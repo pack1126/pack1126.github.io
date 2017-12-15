@@ -9,9 +9,10 @@ Field name:
 excerpt_separator: 
 layout: post
 ---
+![celebrate.jpg](/uploads/celebrate.jpg)
 
  Hi, my name is Sharon, and I have a blog! Yaaaaaaaaaaaaaaaaaaaaaaaaaaay! Woof woof Woof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woof
 
-![celebrate.jpg](/uploads/celebrate.jpg)    
+    
 
 Woof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woofWoof woof
